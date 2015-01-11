@@ -7,7 +7,7 @@ permalink: /about/
 
 A CS guy
 
-Undergrraduate Student 
+Undergraduate Student 
 
 School of Computer and Information , HFUT @ XC Campus
 
