@@ -4,12 +4,19 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
 
-### More Information
+A CS guy
 
-A place to include any other types of information that you'd like to include about yourself. 
+Undergrraduate Student 
+
+School of Computer and Information , HFUT @ XC Campus
+
+
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[celerond@msn.com](mailto:celerond@msn.com)
+
+[i@hxdl.org](mailto:i@hxdl.org)
+
+[Blog for Algorithm Competition](http://www.cnblogs.com/pdev)
