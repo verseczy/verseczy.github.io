@@ -18,10 +18,9 @@ title: Java速成手册
 
 #编程环境：eclipse
 
->
+
 
 #Part 1
-
 
 ###Java中常用的数据类型：
 
@@ -61,13 +60,12 @@ score=new int[100][100];
 </code></pre>
 
 求数组的长度：
-<pre><code>int score[]
+<pre><code>
+int score[];
 score=new int[10][20];
 int a=score.length;          //return 10
 int b=score[1].length;       //return 20
 </code></pre>
-
->
 
 ###Java里的方法：相当于C/C++里的函数
 
@@ -75,7 +73,8 @@ int b=score[1].length;       //return 20
 
 方法的定义：
 
-<pre><code>public static void add(int a,int b)
+<pre><code>
+public static void add(int a,int b)
 {
     System.out.println(a+b)
 }
@@ -94,6 +93,7 @@ public static int amax(int a[])
 }
 //数组作为方法的传入参数
 </code></pre>
+
 
 ###例：POJ1000，最简单的A+B程序（多组输入）
 <pre><code>
@@ -122,7 +122,6 @@ public static int amax(int a[])
 
 <pre>
 JDK常见的包：
-
 1.java.lang （默认已自动包含）
   包括Java的核心类，如String、Integer、Math、System、Thread
 2.java.io
@@ -145,15 +144,17 @@ public表示公有，static表示静态，void表示无返回值。
 
 ####Line 11
 
-打印并换行。相当于cout<<....<<endl。
+打印并换行。相当于cout<<....<<endl
 
 如果不希望换行，那么这样写：System.out.print(".....");
 
 还可以这样用：
+
 <pre><code>System.out.println("a+b="+(a+b));
 其中(a+b)外面的那个加号表示连接两段字符串
 输入：6 7
-输出：a+b=13</code></pre>
+输出：a+b=13
+</code></pre>
 
 
 
@@ -321,5 +322,12 @@ equals：比较类的内容
 
 
 ###字符串String: 在Java里就是一个类。
+
+
+##推荐资源：
+JDK官方文档
+
+
+第一次用Markdown写东西，蛮好用的～
 
 
