@@ -19,4 +19,6 @@ School of Computer and Information , HFUT @ XC Campus
 
 [i@hxdl.org](mailto:i@hxdl.org)
 
+[wyl@mail.hfut.edu.cn](mailto:wyl@mail.hfut.edu.cn)
+
 [Blog for Algorithm Competition](http://www.cnblogs.com/pdev)
