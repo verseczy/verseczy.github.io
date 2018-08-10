@@ -29,17 +29,10 @@ title: Create a “Map” of the Web Summery
 
 ## Others useful link
 
-- Github commits 
-https://github.com/internetarchive/map-of-the-web/commits/first-version
+[Github commits](https://github.com/internetarchive/map-of-the-web/commits/first-version "Github commits")
 
-- GSoC dashboard
-https://summerofcode.withgoogle.com/dashboard/
+[GSoC dashboard](https://summerofcode.withgoogle.com/dashboard/ "GSoC dashboard")
 
-- Proposal for map of the web
-https://verseczy.github.io/Create-a-Map-of-the-Web-Proposal/
+[Proposal of map of the web](https://verseczy.github.io/Create-a-Map-of-the-Web-Proposal/ "Proposal of map of the web")
 
-- GSOC 2018 map of the web – Internet Archive experience
-https://verseczy.github.io/map-of-the-web-experience/
-
-
-    
+[GSoC 2018 map of the web - Internet Archive experience](https://verseczy.github.io/map-of-the-web-experience/ "GSoC 2018 map of the web - Internet Archive experience")
