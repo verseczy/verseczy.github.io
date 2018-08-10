@@ -36,3 +36,4 @@ title: Create a “Map” of the Web Summery
 [Proposal of map of the web](https://verseczy.github.io/Create-a-Map-of-the-Web-Proposal/ "Proposal of map of the web")
 
 [GSoC 2018 map of the web - Internet Archive experience](https://verseczy.github.io/map-of-the-web-experience/ "GSoC 2018 map of the web - Internet Archive experience")
+
