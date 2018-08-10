@@ -58,5 +58,5 @@ Except learning exact tools in this project, it is my first time working in Unit
 
 Through this project, I reviewed and learned many skills in web and database and it is very helpful for my future career like basic skills. Also, I notice I am more interested in algorithms and building models. In the future, I may try to find job in this area. 
 
-Thanks to Mark, David and Dan, I really have an unforgettable experience in CSoC and Internet Archive. 
+Thanks to Mark, David and Dan, I really have an unforgettable experience in CSoC and Internet Archive.             
 
