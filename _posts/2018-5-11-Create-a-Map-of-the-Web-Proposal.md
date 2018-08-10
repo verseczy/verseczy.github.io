@@ -16,11 +16,11 @@ Crawl the website pages and classify these websites according to their domains, 
 
 After finishing the classification storage, draw the graph of them and choose the best algorithms for general graphs like the topology-shapes-metrics approach and the force-directed approach. Show the result by using WebGL and write the report about it, via these, we can make contribution to the academic paper. In addition, based on the result of this program, it can help to improve the web archiving program with the third party data.
 ### Deliverables
-- • Blog posts 
-- • Graphs
-- • Reports
-- • Planning documents
-- • Contribution to an academic paper
+-  Blog posts 
+-  Graphs
+-  Reports
+-  Planning documents
+-  Contribution to an academic paper
 
 ### Timeline
 May.3 – May.16
